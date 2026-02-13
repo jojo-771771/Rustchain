@@ -350,3 +350,9 @@ rustchain --help
 
 ---
 *Documentation improved for better onboarding*
+
+## 📚 Documentation
+
+- [Quick Start](README.md#-quick-start)
+- [Contributing](CONTRIBUTING.md)
+- [License](LICENSE)
