@@ -21,9 +21,15 @@ git clone https://github.com/Scottcjn/Rustchain.git
 cd Rustchain
 ```
 
-2. Install dependencies
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
 
-3. Run tests
+3. Run tests:
+```bash
+pytest
+```
 
 ## 📝 Submitting Changes
 
