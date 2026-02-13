@@ -350,3 +350,28 @@ rustchain --help
 
 ---
 *Documentation improved for better onboarding*
+
+## 📖 Quick Start Guide
+
+### Installation
+```bash
+pip install rustchain
+```
+
+### Basic Usage
+```bash
+# Initialize
+rustchain init
+
+# Check version
+rustchain --version
+
+# Get help
+rustchain --help
+```
+
+### Configuration
+Create a config file at `~/.rustchain/config.yaml`
+
+---
+*This Quick Start guide helps new users get started quickly.*
